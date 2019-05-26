@@ -1,0 +1,11 @@
+Разбор дедлоков:
+
+https://m.habr.com/ru/company/odnoklassniki/blog/255067/
+
+Обзор java.util.concurrent:
+
+https://habr.com/ru/company/luxoft/blog/157273/
+
+Потокобезопасный Одиночка:
+
+https://habr.com/ru/post/129494/
